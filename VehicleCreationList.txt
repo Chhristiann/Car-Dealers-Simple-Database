@@ -1,0 +1,86 @@
+ - - - - - - [Truck's] - - - - - - 
+Manufacturer: Ford
+Price: $64,882.56
+Wheels: 4
+Doors: 4
+Horsepower: 345
+Passengers: 5
+Crash Rating: 4 stars
+Model: F150
+Cargo Cap.: 3000.0
+Towing Cap.: 9000.0
+Bed Liner: true
+Type: Passenger
+
+Manufacturer: Ford
+Price: $64,882.56
+Wheels: 4
+Doors: 4
+Horsepower: 345
+Passengers: 5
+Crash Rating: 4 stars
+Model: F150
+Cargo Cap.: 3000.0
+Towing Cap.: 9000.0
+Bed Liner: true
+Type: Passenger
+
+ - - - - - - [Motorcycles] - - - - - - 
+Manufacturer: Bucatti
+Price: $17,895.56
+Wheels: 2
+Doors: 0
+Horsepower: 475
+Passengers: 2
+Crash Rating: 4 stars
+Model: Roadster 400 Series
+Side Car: false
+Signal Lights: true
+Radio: false
+
+Manufacturer: Bucatti
+Price: $17,895.56
+Wheels: 2
+Doors: 0
+Horsepower: 475
+Passengers: 2
+Crash Rating: 4 stars
+Model: Roadster 400 Series
+Side Car: false
+Signal Lights: true
+Radio: false
+
+ - - - - - - [Uncategorized Cars] - - - - - - 
+Manufacturer: Ford
+Price: $10,925.96
+Wheels: 4
+Doors: 4
+Horsepower: 500
+Passengers: 7
+Crash Rating: 5 stars
+Model: MachE
+Convertible: false
+Engine: Electric
+
+Manufacturer: Ford
+Price: $10,925.96
+Wheels: 4
+Doors: 4
+Horsepower: 500
+Passengers: 7
+Crash Rating: 5 stars
+Model: MachE
+Convertible: false
+Engine: Electric
+
+Manufacturer: Ford
+Price: $10,925.96
+Wheels: 4
+Doors: 4
+Horsepower: 500
+Passengers: 7
+Crash Rating: 5 stars
+Model: MachE
+Convertible: false
+Engine: Electric
+
